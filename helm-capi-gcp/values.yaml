@@ -1,7 +1,7 @@
 clusterName: capi-prod
 clusterNamespace: default
-gcpProject: nic-dev-356208
-gcpRegion: us-central1
+gcpProject: p-22s7pdmwkw8s-0
+gcpRegion: europe-west1
 gcpControlPlaneInstanceType: e2-standard-2
 gcpWorkerInstanceType: e2-standard-2
 gcpImageProject: nic-dev-356208

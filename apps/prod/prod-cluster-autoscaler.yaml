@@ -12,5 +12,5 @@ spec:
   project: default
   source:
     path: kustomize-cluster-autoscaler/overlays/prod
-    repoURL: https://github.com/vfiftyfive/argocd-clusterapi-autoscaler.git
+    repoURL: https://github.com/velkjaer/argocd-clusterapi-autoscaler.git
     targetRevision: HEAD
